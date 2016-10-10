@@ -1,0 +1,6 @@
+C:\Users\jacupan\Documents\Visual Studio 2015\Projects\Demos\CodeGolf\IamNumberFour\IamNumberFour\bin\Debug\IamNumberFour.exe.config
+C:\Users\jacupan\Documents\Visual Studio 2015\Projects\Demos\CodeGolf\IamNumberFour\IamNumberFour\bin\Debug\IamNumberFour.exe
+C:\Users\jacupan\Documents\Visual Studio 2015\Projects\Demos\CodeGolf\IamNumberFour\IamNumberFour\bin\Debug\IamNumberFour.pdb
+C:\Users\jacupan\Documents\Visual Studio 2015\Projects\Demos\CodeGolf\IamNumberFour\IamNumberFour\obj\Debug\IamNumberFour.csprojResolveAssemblyReference.cache
+C:\Users\jacupan\Documents\Visual Studio 2015\Projects\Demos\CodeGolf\IamNumberFour\IamNumberFour\obj\Debug\IamNumberFour.exe
+C:\Users\jacupan\Documents\Visual Studio 2015\Projects\Demos\CodeGolf\IamNumberFour\IamNumberFour\obj\Debug\IamNumberFour.pdb
